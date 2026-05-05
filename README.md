@@ -53,7 +53,7 @@ Experienced with **MVC architecture**, **JWT authentication**, relational databa
 
 ## 🌍 Languages
 
-- English: Intermediate
+- English: Advanced
 - Portuguese: Native
 
 ---

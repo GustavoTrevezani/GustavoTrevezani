@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Gustavo Trevezani
+# I'm Gustavo Trevezani
 
-💻 Full Stack Developer (Node.js, React, PostgreSQL)  
-📍 Brazil | 🌍 Open to remote & international opportunities  
+Full Stack Developer (Node.js, React, PostgreSQL)  
+ Brazil |  Open to remote & international opportunities  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Full Stack Developer with 1 year of hands-on experience building web applications, mainly focused on developing **REST APIs with Node.js** integrated with modern frontends.
 
 Experienced with **MVC architecture**, **JWT authentication**, relational databases, and agile teamwork using **Scrum and Azure DevOps**.
 
-🎯 Currently seeking opportunities as a **Back-End or Full Stack Developer (Junior)**
+Currently seeking opportunities as a **Back-End or Full Stack Developer (Junior)**
 
 ---
 
 
-## 💼 Work Experience
+## Work Experience
 
-### 👨‍💻 Full Stack Developer — VilaInfo  
-📅 Apr 2024 – Apr 2025 | 💻 Remote  
+###  Full Stack Developer — VilaInfo  
+Apr 2024 – Apr 2025 | Remote  
 
 - Developed and maintained **CRUD operations using PostgreSQL**
 - Built **RESTful APIs with Node.js and Express**
@@ -29,12 +29,12 @@ Experienced with **MVC architecture**, **JWT authentication**, relational databa
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🎬 Movie Management System (Technical Test - MicroKids)
+### Movie Management System
 
-🔗 Live Demo: https://teste-vaga-micro-kids-gestao-filmes.vercel.app/  
-🔗 Repository: https://github.com/GustavoTrevezani/Teste-Vaga-MicroKids---Gestao-Filmes  
+🔗 Live Demo: https://movies-catalog-api.vercel.app/
+🔗 Repository: https://github.com/GustavoTrevezani/movies-catalog-api 
 
 **Stack:** Node.js • NestJS • Angular • Prisma • PostgreSQL  
 
@@ -51,7 +51,7 @@ Experienced with **MVC architecture**, **JWT authentication**, relational databa
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - English: Advanced
 - Portuguese: Native
